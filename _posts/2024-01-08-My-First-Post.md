@@ -3,4 +3,6 @@ title: "My first post"
 layout: post
 ---
 
-Hellllllllo I ammmmmmm Cattttttttthy's     stoobid sis Rebbby
+Hi guys this is my website for some very random writing pieces! Pls enjoy :D
+
+
