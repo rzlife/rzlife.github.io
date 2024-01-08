@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Rebecca Writes"
+author: "RZ"
+description: "POOOOOWOO"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,13 +20,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:xxx@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/rzlife"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
+
+remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
  - jekyll-feed
