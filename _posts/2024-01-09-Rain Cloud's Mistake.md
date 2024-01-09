@@ -11,22 +11,30 @@ Rain Cloud, the rain cloud did nothing else but float around in the sky, rained 
 timetable, or you can call it a weather fore-cast if you want to.
 
 MONDAY:
+
 Morning: Chill.
+
 Evening: Still hanging around.
+
 Night: Rain.
 
 
 TUESDAY:
+
 -Rain all day.
 
 
 WEDNESDAY:
+
 -Still raining all day!
 
 
 THURSDAY:
+
 -Gets blown away by Wind and Puff
+
 Night: Find my way back home.
+
 
 
 FRIDAY:
@@ -34,13 +42,19 @@ Morning: Sleep
 Evening and Night: Rain
 
 
+
 SATURDAY:
+
 -Rain again all day
 
 
+
 SUNDAY:
+
 Morning: Take a nap
+
 Evening: Rain for five minutes
+
 Night: Finally a day I can sleep!
 
 
