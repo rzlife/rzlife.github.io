@@ -8,6 +8,6 @@ Also, I will post some fragments of my life as a blog.
 Also, you can check out my sister's website [Cathy's Website](https://yswcyswc.github.io), where she post cool and interesting facts about her life at home and at her university, Carnegie Mellon! :DD
 
 
-<img src = "/assets/capybara.jpg" alt = 'cat poo' width = '150' height = '150'>
+<img src = "/assets/capybara.jpg" alt = 'cat poo' width = '150' height = '170'>
 
 PIZZZAAAAA literally me -
