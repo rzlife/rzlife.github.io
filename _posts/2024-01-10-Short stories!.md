@@ -8,8 +8,7 @@ Hey guys! This will be a folder for ever short story I post, as the Home Page wi
 
 
 ## Story #1 ~ Rockfall Boulder
--published 10/01/2024
-------------------------------------------------------
+--- published 10/01/2024
 
 The villagers of Rockfall lived in fear of the boulder that loomed over their village. Every full moon, the boulder would transform into a monstrous creature with razor-sharp teeth and claws, and descend upon the village to claim a victim. No one knew why the boulder was cursed, or how to stop it. The villagers had tried to move away, but the boulder would always follow them. They had tried to fight back, but the boulder was too strong and fast. They had tried to appease it, but the boulder was too hungry and cruel.
 One night, a young villager named Ria decided to end the terror once and for all. She had lost her parents and siblings to the boulder, and she had nothing left to live for. She armed herself with a sword and a torch, and waited for the full moon to rise. She knew she had little chance of surviving, but she hoped to at least wound the boulder and make it suffer.
