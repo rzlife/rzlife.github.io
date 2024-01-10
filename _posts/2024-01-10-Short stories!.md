@@ -8,7 +8,6 @@ Hey guys! This will be a folder for ever short story I post, as the Home Page wi
 
 
 Story #1 ~ Rockfall Boulder
-
 -published 10/01/2024
 
 
@@ -37,3 +36,7 @@ The villagers watched in shock and awe as the boulder turned back into stone, ne
 They mourned for Ria, who had sacrificed herself to save them.
 
 They honoured her as a hero, who had slain the monster with kindness.
+
+
+
+Story #2 - 
