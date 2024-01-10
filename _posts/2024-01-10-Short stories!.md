@@ -37,5 +37,3 @@ They mourned for Ria, who had sacrificed herself to save them.
 They honoured her as a hero, who had slain the monster with kindness.
 
 
-
-Story #2 - 
