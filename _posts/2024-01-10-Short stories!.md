@@ -3,7 +3,7 @@ title: "Short Stories Folder ٩(^ᗜ^ )و ´-"
 layout: post
 ---
 
-Hey guys! This will be a folder for ever short story I post, as the Home Page will be way to long if I post each story individually. This will be updated at very random times, so make sure to check regularly. Enjoy!
+Hey guys! This will be a folder for ever short story I post, as the Home Page will be way to long if I post each story individually. This will be updated at very random times, so make sure to check regularly. Enjoy (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ !
 
 
 
