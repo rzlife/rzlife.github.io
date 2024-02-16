@@ -7,14 +7,12 @@ Hi everyone, this is a page where I will post updates for the Short Stories Fold
 
 
 LAST STORY POSTED ON:
-
 16/02/2024 
 
 
+_________________________
 
 
 
-
-Story Name:
-
+STORY NAME:
 Underwater
