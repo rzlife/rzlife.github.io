@@ -39,10 +39,8 @@ They honoured her as a hero, who had slain the monster with kindness.
 
 
 
----
-title: STORY 2 - Underwater
----
-Posted 16/02/2024
+## STORY 2 - Underwater
+--- published 16/02/2024
 
 
 
