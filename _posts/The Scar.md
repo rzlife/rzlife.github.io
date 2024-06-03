@@ -1,2 +1,13 @@
 ---
-Title: The Scar -> ver.1
+title: The Scar -> ver.1
+layout: post
+---
+
+Hi everyone! I haven't posted in a long time whoops
+Here is a new story THE SCAR
+
+
+The abandoned land, now wild deep, jagged fissure in the earth, a wound left by the violent, merciless earthquake. It cut through the landscape like a knife, leaving a trail of destruction in its wake. The ground around it was cracked and uneven, and debris littered the area. It was a stark reminder of the power of nature and the fragility of the world we live in. The Scar would remain for years to come, haunting the humans around them in its presence forever.
+
+
+This is only an IDEA guys, but would you read this?? Hmmm (version two coming soon in poetry style!!)
