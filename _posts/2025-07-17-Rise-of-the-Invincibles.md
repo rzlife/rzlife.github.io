@@ -58,39 +58,65 @@ _______________________________________________________
 ## APPENDIX
 # Scientific Terms
 Tuberculosis (TB): an infectious disease caused by a type of bacteria called ‘Mycobacterium tuberculosis’. It primarily affects the lungs and spreads through the air by interactions with the infected (eg: cough, spit, sneezes)
+
 Superbugs: also known as ‘antimicrobial resistance’, it is when bacteria becomes resistant to multiple antibiotics through misuse or overdose, making it more complex to cure.
+
 Bacteria: microscopic organisms made of one biological cell. Some cause diseases, some are harmless and some are helpful and vital for the environment. Humans contain trillions of bacteria.
+
 Antibiotics: medications used to either kill bacteria or slow down their reproduction.
+
 Isoniazid: a type of antibiotic used to stop TB from returning.
+
 Rifampicin: another type of treatment for Tuberculosis
+
 Fluoroquinolones: a group of medicines that are designed to fight bacterial infections.
+
 Pyrazinamide: is an antibiotic that kills bacteria that causes Tuberculosis.
+
 Ethambutol:  is an antibiotic against TB that stops the growth of bacteria.
+
 Streptomycin: medicine used to treat bacterial infections. 
+
 Lung: a pair of organs that provide our tissues with oxygen
+
 Throat: a tube located in the middle of the neck that helps with breathing and digestion.
+
 Reproduction: biological process through which living organisms create offspring, ensuring the continuity of their species.
+
 DNA: a molecule that carries genetic information.
+
 Molecules: invisible structures made up of particles called atoms.  Each type of molecule has its own unique properties and is in everything.
+
 Enzymes: proteins that speed up specific chemical reactions within living organisms.
+
 Cell:  Each cell is enclosed by a membrane and contains essential molecules. All living things are composed of cells.
+
 Species: a category of living things that ranks below a group
+
 Horizontal gene transfers: exchange of genes between individuals without passing them directly from parents to offspring.
+
 Biofilms: when a thick layer of organisms that lack a nucleus and other organelles cluster to form a colony.
+
 Ribosomes: the cellular machinery responsible for making proteins
 
-## Bibliography
-# Frontiers in Pharmacology - Antibiotic Action and Resistance
+# Bibliography
+ Frontiers in Pharmacology - Antibiotic Action and Resistance
 https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1305294/full
-# News In Health (NIH) - Stop the Spread of Superbugs
+
+News In Health (NIH) - Stop the Spread of Superbugs
 https://newsinhealth.nih.gov/2014/02/stop-spread-superbugs#:~:text=Superbugs%20are%20strains%20of%20bacteria,Control%20and%20Prevention%20(CDC).
-# Centers for Disease Control and Prevention (CDC) - Tuberculosis: Causes and How It Spreads
+
+ Centers for Disease Control and Prevention (CDC) - Tuberculosis: Causes and How It Spreads
 https://www.cdc.gov/tb/causes/index.html#:~:text=Tuberculosis%20(TB)%20germs%20spread%20through,spread%20TB%20germs%20to%20others
-# World Health Education - Tuberculosis
+
+ World Health Education - Tuberculosis
 https://www.who.int/health-topics/tuberculosis#tab=tab_1
-# National Library of Medicine (NIH) - Antibiotic Resistance Crisis
+
+ National Library of Medicine (NIH) - Antibiotic Resistance Crisis
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
-# Ausmed - Superbugs: What Are They and How Can They Be Stopped?
+
+ Ausmed - Superbugs: What Are They and How Can They Be Stopped?
 https://www.ausmed.com.au/learn/articles/superbugs
-# TB Online - How TB infects the body: The Tubercule
+
+ TB Online - How TB infects the body: The Tubercule
 https://www.tbonline.info/posts/2016/3/31/how-tb-infects-body-tubercle-1/
