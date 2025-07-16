@@ -5,12 +5,12 @@ layout: post
  uhm i felt bad after deleted all my stories so I'm keeping them here yoi
 
 
-### THE SCAR
+### THE SCAR (written 10 September 2023)
  blurb ver.
 
  The abandoned land, now wild deep, jagged fissure in the earth, a wound left by the violent, merciless earthquake. It cut through the landscape like a knife, leaving a trail of destruction in its wake. The ground around it was cracked and uneven, and debris littered the area. It was a stark reminder of the power of nature and the fragility of the world we live in. The Scar would remain for years to come, haunting the humans around them in its presence forever.
 
-###THE HUMANOID ANT
+### THE HUMANOID ANT 2024/01/09
 
 You can say I'm magical, because... well... I can turn tiny, about the same size of an ant, and even smaller! I know,
 it's truly amazing! But trouble comes here! I was a bit naughty... I decided to turn into an ant and have a little bit of
