@@ -2,12 +2,13 @@
 title: "pictures??"
 layout: post
 ---
-maybe some pictures yay!
+yoyoyo
+idk what this could be so let it be a simp shrine HAHAHAHHA
 
 
 
 
-<img src = "/assets/" alt = 'cat poo' width = '170' height = '150'>
+
 
 
 
