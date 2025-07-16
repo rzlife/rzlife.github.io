@@ -1,9 +1,9 @@
 ---
-title: Rise of The Invincibles (STS 2024)
+title: "Rise of The Invincibles (STS 2024)"
 layout: post
 ---
 
-hey guys so as promised, here is the Science Talent Search 2024 entry
+𝐡𝐞𝐲 so as promised, here is the Science Talent Search 2024 entry (also I don't know what this got for ranking because I left the school afterwards (╥﹏╥) )
 
 ### Rise of the Invincibles
 (A Chronicle of a Resilient Species)
