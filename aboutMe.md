@@ -6,7 +6,7 @@ Hi! My name is Rebecca. I'm a middle school student who has absolutely no idea h
 I also want to start posting blogs and plogs because I do like taking pictures! (my storage has been dead since 2021, don't ask how I've survived after...)
 
 
-Also, you can check out my sister's website [Cathy's Website](https://yswcyswc.github.io), where she post interesting bits of her life, work and university!  :DD
+You can go and check out my sister's website [Cathy's Website](https://yswcyswc.github.io), where she post interesting bits of her life, work and university!  :DD
 
 
 <img src = "/assets/capybara.jpg" alt = 'cat poo' width = '170' height = '150'>
