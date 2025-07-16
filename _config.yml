@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: 'home', icon: home}
   - {file: "aboutMe.md", title: 'about', icon: address-card}
-  - {file: "hey.md", title: 'blog', icon: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcamera-icon-aesthetic-in-black-and-white--417216352985834143%2F&psig=AOvVaw3n9Ibqo8VUnqYu72-4dpnW&ust=1752746316837000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPjQ0oCPwY4DFQAAAAAdAAAAABAL}
+  - {file: "hey.md", title: 'blog', icon:  "/assets/smiley face lol.jpg"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rebeccazhang0628@gmail.com"}
