@@ -2,4 +2,17 @@
 title: "CGS Photodump"
 layout: post
 ---
-<img src = "/assets/celinebirthday.jpg" alt = 'celinebirthday' width = '300' height = '150'>
+cgs photodump of me & friends ദ്ദി(｡•̀ ,<)~✩‧₊
+
+
+<img src = "/assets/celinebday.jpg" alt = 'celinebirthday' width = '600' height = '440'> 
+<img src = "/assets/lilybday.JPG" alt = 'lilybirthday' width = '600' height = '440'>
+<img src = "/assets/melily.jpg" alt = 'melily' width = '300' height = '440'>
+<img src = "/assets/wowowee.jpg" alt = 'wowowee' width = '600' height = '440'> 
+<img src = "/assets/miaocrlj.jpg" alt = 'miaocrlj' width = '600' height = '440'> 
+<img src = "/assets/sleepover.jpg" alt = 'sleepover' width = '300' height = '440'> 
+<img src = "/assets/toilettrioagain" alt = 'toilettrioagain' width = '600' height = '440'> 
+<img src = "/assets/yuhthetoilettrio.jpg" alt = 'yuhthetoilettrio.jpg' width = '300' height = '440'> 
+
+
+
