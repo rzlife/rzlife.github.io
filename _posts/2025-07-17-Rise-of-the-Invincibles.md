@@ -4,6 +4,10 @@ layout: post
 ---
 
 𝐡𝐞𝐲 so as promised, here is the Science Talent Search 2024 entry (also I don't know what this got for ranking because I left the school afterwards (╥﹏╥) )
+
+
+
+
 _____________________________________________________________
 
 ### Rise of the Invincibles
