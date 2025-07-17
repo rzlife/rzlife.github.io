@@ -1,5 +1,5 @@
 ---
-title: "CGS Photodump"
+title: "CGS Photodump ᐠ( ᐛ )ᐟ"
 layout: post
 ---
 cgs photodump of me & friends ദ്ദി(｡•̀ ,<)~✩‧₊
