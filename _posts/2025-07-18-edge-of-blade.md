@@ -2,7 +2,7 @@
 title: "Dancing on the Edge of the Blade"
 layout: post
 ---
-I wrote this short story (aimed for 100-500 words, mine's a bit over ¯\_(ツ)_/¯ ) for a holiday writing programme, focusing on the topic 'Virtual Worlds' but
+I wrote this short story (aimed for 100-500 words, mine's a bit over ¯\\_(ツ)_/¯ ) for a holiday writing programme, focusing on the topic 'Virtual Worlds' but
 honestly, I have already written a lot of sci-fi and tech and stufffff so yay? ig?
 
 
