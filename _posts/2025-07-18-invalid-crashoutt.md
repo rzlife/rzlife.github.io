@@ -24,6 +24,8 @@ THEN NOW MY DAD IS EXPLAINING THE EXACT SAME THING AGAIN WHATS THE LITERAL USE??
 LIKE OK BUDDY BYE (づ ᴗ _ᴗ)づ♡
 
 
+<img src = "/assets/crashout.jpg" alt = 'crashouthelp' width = '400' height = '300'>
+
 
 
 
