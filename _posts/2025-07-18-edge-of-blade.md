@@ -5,6 +5,10 @@ layout: post
 I wrote this short story (aimed for 100-500 words, mine's a bit over ¯\_(ツ)_/¯ ) for a holiday writing programme, focusing on the topic 'Virtual Worlds' but
 honestly, I have already written a lot of sci-fi and tech and stufffff so yay? ig?
 
+
+
+
+
 My story's message is about the addiction and danger of Virtual Reality, and how in a world where everyone uses VR headsets as a neccesity,
 people find it hard to stop relying on this technology products... yoi (ᵕ—ᴗ—), pls read now 
 
