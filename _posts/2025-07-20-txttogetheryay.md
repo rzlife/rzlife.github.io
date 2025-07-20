@@ -15,7 +15,7 @@ YAHHHOOOO seriously so excited new TXT album coming tomorrow 21/07/2025 at 18:00
 *ੈ✩‧₊˚𝓢𝓽𝓪𝓻𝓵𝓲𝓰𝓱𝓽 𝓿𝓮𝓻. ˙⋆✮ 
 
 <img src = "/assets/txt concept together.jpg" alt = 'txt starlight' width = '600' height = '400'>
-__________________________________________________________
+
 
 aghhhh im so excited, so here are some txt memes for yall ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
