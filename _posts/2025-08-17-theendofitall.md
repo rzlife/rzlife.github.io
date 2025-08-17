@@ -27,7 +27,7 @@ In the dark, you wouldn’t even realise the end of your life is nearing. You wo
 
 Falling shadows cut through the clouds. They arced across the sky in a trail of fire, like a trail of stars falling from heaven.  
 
-Then it descended. Plunging towards the already broken ground, and all existence seemed to freeze as it hit the earth, succumbing to the flames that had engulfed the area. 
+Then it descended. Plummeting towards the already broken ground, and all existence seemed to freeze as it hit the earth, succumbing to the flames that had engulfed the area. 
 
 The air reeked of scorched, burning metal. The skyscrapers lay, crumpled, a mess of steel and stone and glass. The world was covered with the lingering haze of ash, like a mist curtain hiding the horrors of humanity.  
 
