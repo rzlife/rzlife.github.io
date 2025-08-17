@@ -5,7 +5,7 @@ layout: post
 story for english homework :-)
 
 
-
+___________________________________________________________________
 
 The city lay in ruins.  
 
