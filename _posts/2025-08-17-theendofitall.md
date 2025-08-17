@@ -2,6 +2,10 @@
 title: The Day it All Ended
 layout: post
 ---
+story for english homework :-)
+
+
+
 
 The city lay in ruins.  
 
