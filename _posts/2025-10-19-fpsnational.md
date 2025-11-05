@@ -8,7 +8,7 @@ Hi yall this was my Nationals Finals piece I submitted with my team (yayy shouto
 
 
 
-I honestly wish I had the other writings as well (I haven't even read them) but mine was in the perspectice of Dr Robbins, who was over relying on Nanotechnology, and after the technology failed, a girl died because of him. The other perspectices were the traditional doctor, the patient whose bestie died bc of the nanotech, and the patient's mum.
+I honestly wish I had the other writings as well (I haven't even read them) but mine was in the perspective of Dr Robbins, who was over relying on Nanotechnology, and after the technology failed, a girl died because of him. The other perspectives were the traditional doctor, the patient whose bestie died bc of the nanotech, and the patient's mum.
 
 ---------------------------------------------------
 WM20 Rebecca Zhang
