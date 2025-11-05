@@ -11,7 +11,7 @@ yaaallll i think i actually love FPS lol
 
 Anyways, after the actual competition Saturday morning, we had lunch and then we went to the FPS Writing Workshop, which was kinda boring but at least the collaboration part was good.
 
-The prompt was Tokyo Disaster Relief (?) I think, and there were some (ChatGPT generated) character ideas you had to choose from. So basically, we all started writing on our own, then we had to group up and combine them. Our group didn't finish grouping it, but within our groups, we seperated because some of us were writing on the same character. And I was with Jasmine, this girl from Kilvington Grammar, and I LOVE YOU GURL, she is actually talented af, and funny, and honestly wanted to ask for her social (uhh I have her gmail does that count) or something bc she is SO NICE.
+The prompt was Tokyo Disaster Relief (?) I think, and there were some (ChatGPT generated) character ideas you had to choose from. So basically, we all started writing on our own, then we had to group up and combine them. Our group didn't finish grouping it, but within our groups, we seperated because some of us were writing on the same character. And I was with Jasmine (Lee), this girl from Kilvington Grammar, and I LOVE YOU GURL, she is actually talented af, and funny, and honestly wanted to ask for her social (uhh I have her gmail does that count) or something bc she is SO NICE.
 
 ANYWAYYYS we wrote this story together after combining our stories, and I AM OBSESSED like I ACTUALLY LOVE YOUR WRITING STYLE JASMINE!!
 
