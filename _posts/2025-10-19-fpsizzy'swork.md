@@ -1,0 +1,29 @@
+---
+title: Y11 Prize Deserving Writing
+layout: post
+---
+
+gosh i hope I can write like her in Year 11
+credit: Izzy Rio 2025
+
+
+
+-------------------------------------------
+Kenji Sato took a breath in with the rain. Each drop he heard individually, the slow, persistent dribble of rainfall that had been growing and growing and growing since Kenji had smelt the first sign of an oncoming storm 7 days ago. With each inhale and exhale his chest grew tired and his lungs began to burn. Usually when he meditated he could hear the pattering of animal’s feet in the trees around him, or the elegant whoosh of the Tama Hill Glider as it cut through the air. Today he was alone in his meditation. There were no birds or foxes or hikers or picnickers making sound outside the house. 
+
+A drop of water fell onto his shoulder. He left it there, and soon a group of raindrops had gathered. They rolled off his shoulder and down his arm, collecting at his fingertips then dropping to the ground. This is how it begins, he thought, as a puddle began to form beside him. He was the conductor, leeching the storm from the outside world into his home.
+
+
+Kenji was five and his mother was crying. There was blood on her collar bone, and blood under his finger nails. He had scratched her and she was crying. Her blood was under his fingernails and she was crying. Her tears gathered around her chin, until they fell to the ground in front of Kenji. Did it really hurt that bad? 
+
+Last night lightning struck. It had hit the tree next to Kenji’s house. Who had told him not to use the rap during a lightning storm? His older cousin flashed into his mind, and then his primary school teacher, and then a hybrid of the two of them: his cousin’s eyes, his teacher’s smile. Who could tell those eyes that they would be deployed to fight in a war that had swallowed entire countries? Who could tell that smile that it would be lost under the rubble from an earthquake? The water soaked through Kenji’s shoes, the ones that were always clean, the ones that were never worn outside, soaked with muddied rainwater. 
+
+When Kenji was 12 he held his fist close to his chest. It was bandaged with a washcloth his cousin had grabbed for him. His mother stood in front of him, sweeping up plaster dust with the small broom they kept in the apartment. Kenji’s cousin stood, staring at the hole in the wall. Kenji looked firmly at the floor. His mother muttered under her breath. His cousin stayed silent. 
+
+The rain was growing louder, an anger unveiling in the wind that forced itself through Kenji’s closed windows. The rain was a blanket of sound stifling and suffocating and surrounding Kenji. He tried to find somewhere for his mind to hide, the chime of a clock, the consistent drip of the water on his shoulder, but it was all silenced by the rain, and the drip had become a constant stream from the roof. Kenji’s shirt was soaked through.
+
+The muffled sound of sirens from the city sealed Kenji’s fate. People were leaving, or hiding, or finding higher ground. They weren’t coming for him. Kenji closed his eyes. Like his mother taught him, he breathed through the anger of the storm, the humiliation of being forgotten, the misery of dying alone, and the wind and the rain and the thunder raged on.
+
+-------------------------------
+
+HELP it's so good AM I WRONG????
