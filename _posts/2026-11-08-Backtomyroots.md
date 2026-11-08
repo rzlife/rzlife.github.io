@@ -1,7 +1,7 @@
-------
-TITLE: Back to my Roots
-Layout: post
-------
+---
+title: Back to My Roots
+layout: post
+---
 The tree swayed unsteadily, fruit against leaf against branch.
 
 From the highest point of the tree, it could see everything.
